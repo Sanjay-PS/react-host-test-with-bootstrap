@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/Sanjay-PS/react-host-test-with-bootstrap/static/css/main.db221cc4.chunk.css",
-    "main.js": "/Sanjay-PS/react-host-test-with-bootstrap/static/js/main.3d1dcf58.chunk.js",
-    "main.js.map": "/Sanjay-PS/react-host-test-with-bootstrap/static/js/main.3d1dcf58.chunk.js.map",
-    "runtime-main.js": "/Sanjay-PS/react-host-test-with-bootstrap/static/js/runtime-main.cef90eb6.js",
-    "runtime-main.js.map": "/Sanjay-PS/react-host-test-with-bootstrap/static/js/runtime-main.cef90eb6.js.map",
-    "static/css/2.af3c1da9.chunk.css": "/Sanjay-PS/react-host-test-with-bootstrap/static/css/2.af3c1da9.chunk.css",
-    "static/js/2.ded70359.chunk.js": "/Sanjay-PS/react-host-test-with-bootstrap/static/js/2.ded70359.chunk.js",
-    "static/js/2.ded70359.chunk.js.map": "/Sanjay-PS/react-host-test-with-bootstrap/static/js/2.ded70359.chunk.js.map",
-    "index.html": "/Sanjay-PS/react-host-test-with-bootstrap/index.html",
-    "precache-manifest.27986973b8646e29243a9184e39b9e5a.js": "/Sanjay-PS/react-host-test-with-bootstrap/precache-manifest.27986973b8646e29243a9184e39b9e5a.js",
-    "service-worker.js": "/Sanjay-PS/react-host-test-with-bootstrap/service-worker.js",
-    "static/css/2.af3c1da9.chunk.css.map": "/Sanjay-PS/react-host-test-with-bootstrap/static/css/2.af3c1da9.chunk.css.map",
-    "static/css/main.db221cc4.chunk.css.map": "/Sanjay-PS/react-host-test-with-bootstrap/static/css/main.db221cc4.chunk.css.map",
-    "static/js/2.ded70359.chunk.js.LICENSE.txt": "/Sanjay-PS/react-host-test-with-bootstrap/static/js/2.ded70359.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/Sanjay-PS/react-host-test-with-bootstrap/static/media/logo.ee7cd8ed.svg"
+    "main.css": "/react-host-test-with-bootstrap/static/css/main.db221cc4.chunk.css",
+    "main.js": "/react-host-test-with-bootstrap/static/js/main.2bb8eccb.chunk.js",
+    "main.js.map": "/react-host-test-with-bootstrap/static/js/main.2bb8eccb.chunk.js.map",
+    "runtime-main.js": "/react-host-test-with-bootstrap/static/js/runtime-main.8ded95b1.js",
+    "runtime-main.js.map": "/react-host-test-with-bootstrap/static/js/runtime-main.8ded95b1.js.map",
+    "static/css/2.af3c1da9.chunk.css": "/react-host-test-with-bootstrap/static/css/2.af3c1da9.chunk.css",
+    "static/js/2.ded70359.chunk.js": "/react-host-test-with-bootstrap/static/js/2.ded70359.chunk.js",
+    "static/js/2.ded70359.chunk.js.map": "/react-host-test-with-bootstrap/static/js/2.ded70359.chunk.js.map",
+    "index.html": "/react-host-test-with-bootstrap/index.html",
+    "precache-manifest.99045343424b5d372e969ea40615f6a2.js": "/react-host-test-with-bootstrap/precache-manifest.99045343424b5d372e969ea40615f6a2.js",
+    "service-worker.js": "/react-host-test-with-bootstrap/service-worker.js",
+    "static/css/2.af3c1da9.chunk.css.map": "/react-host-test-with-bootstrap/static/css/2.af3c1da9.chunk.css.map",
+    "static/css/main.db221cc4.chunk.css.map": "/react-host-test-with-bootstrap/static/css/main.db221cc4.chunk.css.map",
+    "static/js/2.ded70359.chunk.js.LICENSE.txt": "/react-host-test-with-bootstrap/static/js/2.ded70359.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/react-host-test-with-bootstrap/static/media/logo.ee7cd8ed.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.cef90eb6.js",
+    "static/js/runtime-main.8ded95b1.js",
     "static/css/2.af3c1da9.chunk.css",
     "static/js/2.ded70359.chunk.js",
     "static/css/main.db221cc4.chunk.css",
-    "static/js/main.3d1dcf58.chunk.js"
+    "static/js/main.2bb8eccb.chunk.js"
   ]
 }
